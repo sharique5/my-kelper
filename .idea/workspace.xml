@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c635c0fc-fa7d-44ac-90d1-d7c8c7c86939" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/KelperComp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/KelperComp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,8 @@
       <updated>1621919100246</updated>
       <workItem from="1621919102432" duration="4854000" />
       <workItem from="1621928497886" duration="5006000" />
-      <workItem from="1621953771755" duration="3363000" />
+      <workItem from="1621953771755" duration="3741000" />
+      <workItem from="1622042551528" duration="438000" />
     </task>
     <servers />
   </component>

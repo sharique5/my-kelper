@@ -86,7 +86,7 @@ const mapStateToProps = state => ({
 const mapDispatchToProps = dispatch => ({
     startAction: () => dispatch(actions.startAction),
     stopAction: () => dispatch(actions.stopAction),
-    updateMap: toSearch => dispatch({type: actions.updateMap, payload: {latitude: toSearch.lat, longitude: toSearch.long, zoom: 20}})
+    updateMap: toSearch => dispatch({type: actions.updateMap, payload: {latitude: toSearch.lat, longitude: toSearch.long, zoom: 23}})
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(KelperComp);
